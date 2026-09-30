@@ -1,5 +1,7 @@
 # Lunar-Lander-v3-PPO
 
+https://github.com/user-attachments/assets/4f10bc58-b281-4d9d-8dee-cf6196be94e2
+
 [![Gymnasium](https://shields.io)](https://farama.org)
 [![PyTorch](https://shields.io)](https://pytorch.org)
 [![License: CC0-1.0](https://shields.io)](https://creativecommons.org)
@@ -86,3 +88,8 @@ python "LL test.py"
 ##  Лицензия
 
 Этот проект распространяется под лицензией **CC0 1.0 Universal** (Public Domain Dedication). Вы можете копировать, изменять, распространять и использовать код даже в коммерческих целях без запроса разрешения.
+
+<img width="1536" height="800" alt="4 _Ошибка_Критика" src="https://github.com/user-attachments/assets/66cebdbb-e5d9-4c45-8d7e-d11fd67f6000" />
+<img width="1536" height="800" alt="3 _Learning_Rate" src="https://github.com/user-attachments/assets/9daa86c5-8801-4920-b49f-22e4d5958f4e" />
+<img width="1536" height="800" alt="2 _Энтропия_политики" src="https://github.com/user-attachments/assets/478a69c4-7acd-4c64-a7ef-9a506b862726" />
+<img width="1536" height="800" alt="1 _Награды_агента" src="https://github.com/user-attachments/assets/909b7e6c-98d1-436e-b5bc-8ae6340099fb" />
